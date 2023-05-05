@@ -1,3 +1,7 @@
 https://github.com/GAM-team/GAM/wiki#download-gam   : link installazione del GAM
+
 https://support.google.com/a/answer/10014088?hl=it    : link assistenza google per il GAM
+
 https://www.ditoweb.com/2021/03/using-open-source-google-apps-manager-to-administer-google-workspace/  : link utile per info sul GAM
+
+https://www.tricent.com/blog/getting-started-with-gam  : info utili
